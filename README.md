@@ -24,3 +24,7 @@
 * [The Reflective](https://the-reflective.com) - modest fashion, nice and niche Shopify store
 * [Wow](https://wowville.com/) - shop many things at good prices
   
+## Side projects
+* [Liquid Questiions](https://liquidquestions.com/) - Shopify Quiz for devs - [open on GH](https://github.com/michaelbollin/shopify-dev-test)
+* [AI images gallery](https://bollin.gallery/) - Some are nice, that was nice adventure with Midjourrney
+* [I'm cooking 👨‍🍳](https://www.instagram.com/kuchniachaosu/) - In PL language only, but few nice picture also there 🙂
