@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/michaelbollin/michaelbollin/refs/heads/main/background.png" />
 
-# Fullstack Web Engineer and Development Lead at [DCNY](https://dcny.co/?via=michael).
+# UX Engineer at [Baymard Institute](https://baymard.com).
 
 ## Skilled in:
 * Javascript / Typescript - React, NextJS, Gatsby, jQuery, Node, Jest, Cypress, Playwright
